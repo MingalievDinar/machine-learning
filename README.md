@@ -4,7 +4,7 @@ Inspired by [Advanced Machine Learning Specialization](https://www.coursera.org/
 
 There are several topics:
 * Deep Learning
-	* [Linear models] (/linear-models/README.md)
+	* [Linear models](https://github.com/MingalievDinar/machine-learning/blob/master/linear-models/README.md)
 * Data Science Competition
 * Bayesian Methods for Machine Learning
 * Natural Language Processing
